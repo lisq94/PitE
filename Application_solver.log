@@ -1,0 +1,38 @@
+2016-03-07 16:32:22,045 Parametry poczatkowe[[1.0, 2.0], [2.0, 3.0], [3.0, 4.0]]
+2016-03-07 16:32:22,108 X= -1.0 Y= 2.0
+2016-03-08 23:05:05,124 Parametry poczatkowe: [[1.0, 2.0], [2.0, 3.0], [3.0, 4.0]]
+2016-03-08 23:05:05,147 X= -1.0 Y= 2.0
+2016-03-09 08:18:22,155 WYSTAPIL WYJATEK: Jeden z argumentów nie jest liczb¹!
+2016-03-09 08:18:56,980 Parametry poczatkowe: [[1.0, 1.0], [1.0, 1.0], [1.0, 1.0]]
+2016-03-09 08:18:56,980 WYSTAPIL WYJATEK: Uk³ad równañ nie jest oznaczony!
+2016-03-09 08:24:34,342 Parametry poczatkowe: [[1.0, 2.0], [2.0, 3.0], [3.0, 4.0]]
+2016-03-09 08:24:34,343 X= -1.0 Y= 2.0
+2016-03-09 08:26:42,174 Parametry poczatkowe: [[23.0, 32.0], [21.0, 12.0], [56.0, 51.0]]
+2016-03-09 08:26:42,174 X= 1.0075757575757576 Y= 1.5631313131313131
+2016-03-09 08:29:10,240 Parametry poczatkowe: [[3.4, 1.2], [2.4, 3.4], [6.5, 2.3]]
+2016-03-09 08:29:10,240 X= 1.91 Y= 0.002
+2016-03-09 08:31:48,724 WYSTAPIL WYJATEK: Jeden z argumentów nie jest liczb¹!
+2016-03-09 08:32:13,617 Parametry poczatkowe: [[1.0, 3.0], [1.0, 2.0], [5.0, 1.0]]
+2016-03-09 08:32:13,618 X= -9.0 Y= 14.0
+2016-03-09 08:38:26,440 Parametry poczatkowe: [[1.0, 2.0], [2.0, 3.0], [3.0, 4.0]]
+2016-03-09 08:38:26,440 X= -1.0 Y= 2.0
+2016-03-09 08:38:40,561 Parametry poczatkowe: [[3.4, 2.0], [2.3, 1.0], [4.5, 5.0]]
+2016-03-09 08:38:40,561 X= 5.833 Y= -6.667
+2016-03-09 08:38:52,671 WYSTAPIL WYJATEK: Jeden z argumentów nie jest liczb¹!
+2016-03-09 08:39:09,244 WYSTAPIL WYJATEK: Jeden z argumentów nie jest liczb¹!
+2016-03-09 08:39:19,779 Parametry poczatkowe: [[1.0, 1.0], [1.0, 1.0], [1.0, 1.0]]
+2016-03-09 08:39:19,779 WYSTAPIL WYJATEK: Uk³ad równañ nie jest oznaczony!
+2016-03-09 08:39:31,873 WYSTAPIL WYJATEK: Jeden z argumentów nie jest liczb¹!
+2016-03-09 08:39:40,482 Parametry poczatkowe: [[1.0, 1.0], [1.0, 1.0], [1.0, 1.0]]
+2016-03-09 08:39:40,483 WYSTAPIL WYJATEK: Uk³ad równañ nie jest oznaczony!
+2016-03-09 08:44:40,210 WYSTAPIL WYJATEK: Jeden z argumentów nie jest liczb¹!
+2016-03-09 08:44:59,322 Parametry poczatkowe: [[1.0, 1.0], [1.0, 1.0], [1.0, 1.0]]
+2016-03-09 08:44:59,322 WYSTAPIL WYJATEK: Uk³ad równañ nie jest oznaczony!
+2016-03-09 08:46:43,422 WYSTAPIL WYJATEK: Podano za ma³o elementów
+2016-03-09 08:48:23,704 WYSTAPIL WYJATEK: Podano za ma³o elementów
+2016-03-09 08:54:35,960 WYSTAPIL WYJATEK: Podano za duÅ¼o elementÃ³w
+2016-03-09 08:54:47,980 WYSTAPIL WYJATEK: Podano za duÅ¼o elementÃ³w
+2016-03-09 08:55:45,828 Parametry poczatkowe: [[1.0, 2.0], [1.0, 2.0], [1.0, 2.0]]
+2016-03-09 08:55:45,836 WYSTAPIL WYJATEK: UkÅ‚ad rÃ³wnaÅ„ nie jest oznaczony!
+2016-03-09 08:55:50,772 Parametry poczatkowe: [[1.0, 1.0], [1.0, 1.0], [1.0, 1.0]]
+2016-03-09 08:55:50,780 WYSTAPIL WYJATEK: UkÅ‚ad rÃ³wnaÅ„ nie jest oznaczony!
